@@ -1,4 +1,4 @@
-%% Golf Game Reinforcement Learning - SARSA(λ) with Eligibility Traces
+%% Minigolf Game Reinforcement Learning - SARSA(λ) with Eligibility Traces
 % Complete implementation of SARSA(λ) with proper eligibility traces
 % Course: AE4350 Bio-inspired Intelligence
 
