@@ -1,7 +1,6 @@
-%% Golf Game Reinforcement Learning in MATLAB - Version 4 Modified
+%% Golf Game Reinforcement Learning in MATLAB - Version 10 Modified
 % Q-learning with tile coding for continuous state representation
 % Course: AE4350 Bio-inspired Intelligence
-% Continuous position minigolf with walls and 24-directional movement (every 15 degrees)
 
 clear; clc; close all;
 
